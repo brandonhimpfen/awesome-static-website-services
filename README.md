@@ -68,7 +68,7 @@ Static websites are fast, secure, and easy to maintain. This list includes servi
 - [Netlify Forms](https://docs.netlify.com/forms/setup/) – Built-in form handling.
 - [Formsubmit](https://formsubmit.co/) – Free and easy contact form backend.
 - [FormKeep](https://formkeep.com/) – Form backend with spam protection and integrations.
-- [StaticForms](https://www.staticforms.xyz/) – Form backend for HTML sites.
+- [Static Forms](https://www.staticforms.dev/) – Form backend for HTML sites.
 
 ## Comments & Search
 
