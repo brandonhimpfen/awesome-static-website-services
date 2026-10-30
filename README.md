@@ -69,6 +69,7 @@ Static websites are fast, secure, and easy to maintain. This list includes servi
 - [Formsubmit](https://formsubmit.co/) – Free and easy contact form backend.
 - [FormKeep](https://formkeep.com/) – Form backend with spam protection and integrations.
 - [Static Forms](https://www.staticforms.dev/) – Form backend for HTML sites.
+- [Slapform](https://slapform.com/) – Form backend that emails each submission and stores it, with webhooks and Zapier.
 
 ## Comments & Search
 
